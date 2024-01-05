@@ -1,5 +1,5 @@
 <h3>Pizza Sales Analysis</h3>
-<h4>Table of Contents</h4><br>
+<h4>Table of Contents</h4>
 <ul><li>Project Overview</li>
 <li>Data Sources</li>
 <li>Recommendations</li>
@@ -9,7 +9,7 @@
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 <br>
 <br>
-<h3>Data Sources</h3><br>
+<h3>Data Sources</h3>
 <b><u>Sales Data:</u></b>
 <br>The primary dataset used for this analysis is the "Sales-Target.xlsx","Branch-Data.xlsx","Daily-Sales-Target.xlsx" file, containing detailed information about each sale made by the company.
 I them processed the dadta to get Dales-Data.csv" on which the analysis is done and dashboard made.<br>
@@ -23,7 +23,7 @@ In the initial data preparation phase, we performed the following tasks:
 Data loading and inspection.<br>
 Handling missing values.<br>
 Data cleaning and formatting.<br>
-<h3>Exploratory Data Analysis</h3><br><br>
+<h3>Exploratory Data Analysis</h3><br>
 This involved exploring the sales data to answer key questions, such as:
 <br>
 <br>
