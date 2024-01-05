@@ -34,7 +34,9 @@ The following command gives us the best sellers based on revenue or quantity
 <br><img width="458" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/db011af8-fe14-495b-a2e1-8672ae0d8fe7">
 <br><br>
 The results from pwerBI dashboard are as follows:
-<br><img width="608" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/acf73cce-3dde-436a-83ed-cb621c1f36ba">
+<br><img width="800" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/acf73cce-3dde-436a-83ed-cb621c1f36ba">
+<br>The foreign keys for different schemas are connected as follows :<br>
+<img width="343" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/7e437c3d-fb85-46bf-8171-666b00cf9624">
 
 Findings<br>
 The analysis results are summarized as follows:
