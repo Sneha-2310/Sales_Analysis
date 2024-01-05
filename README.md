@@ -13,6 +13,7 @@ This data analysis project aims to provide insights into the sales performance o
 <b><u>Sales Data:</u></b>
 <br>The primary dataset used for this analysis is the "Sales-Target.xlsx","Branch-Data.xlsx","Daily-Sales-Target.xlsx" file, containing detailed information about each sale made by the company.
 I them processed the dadta to get Dales-Data.csv" on which the analysis is done and dashboard made.<br>
+<br>
 <b><u>Tools</u></b><br>
 Excel - Data Cleaning<br>
 SQL Server - Data Analysis<br>
@@ -49,7 +50,8 @@ The company's sales have not met the sales target.
 Product 'Pepperoni Suya' is the best-performing category in terms of sales and 'Hot Pepperoni Feast' in terms of revenue.
 Younger Customer segments should be targeted for marketing efforts.
 <br><br>
-Recommendations<br>
+<h3>Recommendations</h3>
+<br>
 Based on the analysis, we recommend the following actions:
 <br>
 Focus on expanding and promoting products in 'Pepperoni Suya','Hot Pepperoni Feast'and'Hot Veggie'.
