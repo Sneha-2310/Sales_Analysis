@@ -1,11 +1,9 @@
-<h3>Pizza Sales Analysis</h3>h3><br><br>
+<h3>Pizza Sales Analysis</h3><br><br>
 <h4>Table of Contents</h4><br>
 <ul><li>Project Overview</li>
 <li>Data Sources</li>
 <li>Recommendations</li>
-</ul><br>
-
-<br>
+</ul>
 <h3>Project Overview</h3>
 <br>
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
