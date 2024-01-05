@@ -43,17 +43,17 @@ The following command gives us the best sellers based on revenue or quantity
 <img width="343" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/7e437c3d-fb85-46bf-8171-666b00cf9624">
 
 <h3>Findings</h3>
-<br>
 The analysis results are summarized as follows:
 <br>
 The company's sales have not met the sales target.
 Product 'Pepperoni Suya' is the best-performing category in terms of sales and 'Hot Pepperoni Feast' in terms of revenue.
-Younger Customer segments should be targeted for marketing efforts.
+<br>Non-Vegetarian Customer make the most of the customer base.
 <br><br>
 <h3>Recommendations</h3>
-<br>
 Based on the analysis, we recommend the following actions:
 <br>
 Focus on expanding and promoting products in 'Pepperoni Suya','Hot Pepperoni Feast'and'Hot Veggie'.
 <br>
-Implement a customer segmentation strategy to target high-LTV customers effectively.
+Implement a customer segmentation strategy to target Non-Vegetarian customers effectively.This could help in reaching the sales target.
+<br>New recipies can be introduced for the vegetarian segment
+
