@@ -33,11 +33,11 @@ Total Revenue on each day: <br><img width="400" alt="image" src="https://github.
 Total revenue of each state on each day: 
 <br>
 <img width="400" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/9c37c46a-fbe9-42f9-a791-37a3674ae387">
-<br>
+<br><br>
 The following command gives us the best sellers based on revenue or quantity
 <br><img width="458" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/db011af8-fe14-495b-a2e1-8672ae0d8fe7">
 <br><br>
-The results from pwerBI dashboard are as follows:
+<h3><u>PowerBI dashboard are as follows:</u></h3>
 <br><img width="800" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/acf73cce-3dde-436a-83ed-cb621c1f36ba">
 <br>The foreign keys for different schemas are connected as follows :<br>
 <img width="343" alt="image" src="https://github.com/Sneha-2310/Sales_Analysis/assets/98509803/7e437c3d-fb85-46bf-8171-666b00cf9624">
