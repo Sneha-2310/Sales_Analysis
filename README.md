@@ -1,4 +1,4 @@
-<h3>Pizza Sales Analysis</h3>
+<h2>Pizza Sales Analysis</h2>
 <h4>Table of Contents</h4>
 <ul><li>Project Overview</li>
 <li>Data Sources</li>
